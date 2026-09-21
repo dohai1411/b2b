@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: dohai
+  structure:
+    - type: space
+      key: space-1
+      title: dohai
+      path: dohai
+      default: true
+      content:
+        directory: ./dohai
